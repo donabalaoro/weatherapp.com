@@ -3,7 +3,7 @@ const hbs = require("hbs");
 const path = require("path");
 const app = express();
 
-// 
+// require
 
 const weatherData = require('../utils/weatherData');
 
